@@ -6,3 +6,6 @@ Put MUL16.xpr inside your project, then export hardware and create new project o
 Add code "Helloworld.c" into your project and build project
 # PC
 You must run the code in the file "brightness_control.py" to calculate communication with the FPGA board
+# Error when build platform
+https://adaptivesupport.amd.com/s/article/75527?language=en_US
+Access and fix the error
